@@ -1,0 +1,13 @@
+[ {
+  "id" : "0612b466-c84e-4219-ab23-8b5fb09b36b8",
+  "nome" : "Usuario",
+  "email" : "juliamolinabon123@gmail.com",
+  "role" : "PACIENTE",
+  "senhaHash" : "$2a$12$X6s8vlhhEHAATEVCkwDeyOmgNqqv1CrfFBBaSyME54mamcbwCLQBK"
+}, {
+  "id" : "d547d155-555d-44d0-aa2a-c859a16b1f66",
+  "nome" : "Usuario",
+  "email" : "floofer@gmail.com",
+  "role" : "PACIENTE",
+  "senhaHash" : "$2a$12$SKNL4pNY1RWB048IfSzUPuZQBFOWtLXMEeeM9lhICoRTNM.xUTn2G"
+} ]
